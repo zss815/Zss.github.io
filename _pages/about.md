@@ -20,12 +20,12 @@ redirect_from:
 My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Department of Electrical and Electronic Engineering, The University of Hong Kong. My research interests include image processing, computer vision and computational imaging.
 
 # 📖 Educations
-- *2020 - 2024*, PhD, Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China.
-- *2017 - 2019*, Master of Engineering, Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
-- *2012 - 2016*, Bachelor of Engineering, Mechanical Engineering, Beijing Institute of Technology, China.
+- *2020.11 - 2024*, PhD, Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China.
+- *2017.12 - 2019.09*, Master of Engineering, Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
+- *2012.09 - 2016.06*, Bachelor of Engineering, Mechanical Engineering, Beijing Institute of Technology, China.
 
 # 💻 Work Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.10*, Machine Learning Research Engineer in Biomind, Beijing and Singapore, worked on medical image analysis and AI-assisted diagnosis.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
