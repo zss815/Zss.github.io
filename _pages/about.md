@@ -28,12 +28,10 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 - *2019.05 - 2020.10*, Machine Learning Research Engineer in Biomind, Beijing and Singapore, worked on medical image analysis and AI-assisted diagnosis.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Learning to restore light fields under low-light imaging]([https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274])
-
-**Shansi Zhang**, Edmund Y. Lam.
+- [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274)
+   **Shansi Zhang**, Edmund Y. Lam.
+- 
 
 
 # 🎖 Honors and Awards
