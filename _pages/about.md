@@ -33,10 +33,10 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 - **Shansi Zhang**, Nan Meng, Edmund Y. Lam, [LRT: an efficient low-light restoration transformer for dark light field images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, 2023.
 - **Shansi Zhang**, Edmund Y, Lam, [An effective decomposition-enhancement method to restore light field images captured in the dark](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003169), *Signal Processing*, vol. 189, 2021.
 - **Shansi Zhang**, Edmund Y. Lam, [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
-- **Shansi Zhang**, Shuyuan Ma, Weiming Wang, Sliding mode control based on disturbance observer for magnetic levitation positioning stage, *ournal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
+- **Shansi Zhang**, Shuyuan Ma, Weiming Wang, Sliding mode control based on disturbance observer for magnetic levitation positioning stage, *Journal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
    
 **Selected conferences**
-
+-  **Shansi Zhang**, Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, 2022.
 
 
 
