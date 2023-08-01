@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Department of Electrical and Electronic Engineering, The University of Hong Kong. My research interests include image processing, computer vision and computational imaging.
+# About me
+My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Department of Electrical and Electronic Engineering, The University of Hong Kong, supervised by [Prof. Edmund Y. Lam](https://www.eee.hku.hk/~elam/). My research interests include image processing, computer vision and computational imaging.
 
 # 📖 Educations
 - *2020.11 - 2024*, PhD, Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China.
