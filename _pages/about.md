@@ -40,5 +40,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 -  **Shansi Zhang**, Chao Sun, Zhi Feng, Guoqiang Hu, [Trajectory-tracking control of robotic systems via deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9095802), in *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)*, 2019.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- National scholarship, *2015.11*.  
+- Beijing Outstanding Graduate, *2016.06*.
+- Outstanding Graduate of Beijing Institute of Technology, *2016.06*.
+- Special award of Fashite gear scholarship, *2015.05*.
