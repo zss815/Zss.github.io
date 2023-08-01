@@ -21,9 +21,9 @@ redirect_from:
 My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Department of Electrical and Electronic Engineering, The University of Hong Kong, supervised by [Prof. Edmund Y. Lam](https://www.eee.hku.hk/~elam/). My research interests include image processing, computer vision and computational imaging.
 
 # 📖 Educations
-- *2020.11 - 2024.10*, PhD, Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China.
-- *2017.12 - 2019.09*, M.Eng, Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore.
-- *2012.09 - 2016.06*, B.Eng, Mechanical Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/), China.
+- PhD, Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China, *2020.11 - 2024.10*.
+- M.Eng, Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, *2017.12 - 2019.09*.
+- B.Eng, Mechanical Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/), China, *2012.09 - 2016.06*.
 
 # 💻 Work Experiences
 - *2019.05 - 2020.10*, Machine Learning Research Engineer in Biomind, Beijing and Singapore,
