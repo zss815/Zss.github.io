@@ -28,7 +28,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 # 💻 Work Experiences
 - *2019.05 - 2020.10*, Machine Learning Research Engineer in Biomind, Beijing and Singapore.
 
-   Worked on medical image analysis and AI-assisted diagnosis.
+   I worked on medical image analysis and AI-assisted diagnosis.
 
 # 📝 Publications 
 **Selected Journals**
