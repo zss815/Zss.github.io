@@ -28,10 +28,13 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 - *2019.05 - 2020.10*, Machine Learning Research Engineer in Biomind, Beijing and Singapore, worked on medical image analysis and AI-assisted diagnosis.
 
 # 📝 Publications 
+**Journals**
 
-- **Shansi Zhang**, Edmund Y. Lam. [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
+- **Shansi Zhang**, Nan Meng, Edmund Y. Lam, [LRT: an efficient low-light restoration transformer for dark light field images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, 2023.
+- **Shansi Zhang**, Edmund Y, Lam, [An effective decomposition-enhancement method to restore light field images captured in the dark](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003169), *Signal Processing*, vol. 189, 2021.
+- **Shansi Zhang**, Edmund Y. Lam, [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
    
-- 
+
 
 
 # 🎖 Honors and Awards
