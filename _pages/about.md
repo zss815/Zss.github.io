@@ -29,8 +29,8 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 
 # 📝 Publications 
 
-- [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274)
-   **Shansi Zhang**, Edmund Y. Lam.
+- **Shansi Zhang**, Edmund Y. Lam. [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), Neurocomputing*, vol. 456, pp. 76-87, 2021.
+   
 - 
 
 
