@@ -31,7 +31,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to restore light fields under low-light imaging]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274))
+[Learning to restore light fields under low-light imaging]([https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274])
 
 **Shansi Zhang**, Edmund Y. Lam.
 
