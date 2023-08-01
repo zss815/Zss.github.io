@@ -37,8 +37,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
    
 **Selected conferences**
 -  **Shansi Zhang**, Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, 2022.
-
-
+-  **Shansi Zhang**, Chao Sun, Zhi Feng, Guoqiang Hu, [Trajectory-tracking control of robotic systems via deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9095802), in *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)*, 2019.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
