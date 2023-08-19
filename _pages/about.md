@@ -22,11 +22,11 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 
 # 📖 Educations
 - PhD, Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China, *2020.11 - present*.
-- M.Eng, Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, *2017.12 - 2019.09*.
+- M.Eng, Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, *2017.09 - 2019.09*.
 - B.Eng, Mechanical Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/), China, *2012.09 - 2016.06*.
 
 # 💻 Work Experiences
--  Machine Learning Research Engineer in Biomind, Beijing and Singapore, *2019.05 - 2020.10*,
+-  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.10*,
   
    worked on medical image analysis and AI-assisted diagnosis.
 
