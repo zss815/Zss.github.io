@@ -29,6 +29,9 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 -  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.10*,
   
    worked on medical image analysis and AI-assisted diagnosis.
+- Research Intern in **Desay SV Automotive**, Singapore, *2018.12-2019.03*,
+
+  worked on deep reinforcement learning for autonomous driving.
 
 # 📝 Publications 
 **Selected Journals**
