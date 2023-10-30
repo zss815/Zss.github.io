@@ -26,7 +26,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree with the Depar
 - B.Eng, Mechanical Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/), China, *2012.09 - 2016.06*.
 
 # 💻 Work Experiences
--  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.10*,
+-  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.09*,
   
    worked on medical image analysis and AI-assisted diagnosis.
 - Research Intern in **Desay SV Automotive**, Singapore, *2018.12-2019.03*,
