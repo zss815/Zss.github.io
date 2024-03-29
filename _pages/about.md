@@ -43,6 +43,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 - **Shansi Zhang**, Shuyuan Ma, Weiming Wang, [Sliding mode control based on disturbance observer for magnetic levitation positioning stage](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07521998), *Journal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
    
 **Selected conferences**
+
 — **Shansi Zhang** and Edmund Y. Lam, [Unsupervised disparity estimation for light field videos](https://ieeexplore.ieee.org/document/10446981), in *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2620–2624, 2024. doi:10.1109/ICASSP48485.2024.10446981
 - **Shansi Zhang** and Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, 2022.
 
