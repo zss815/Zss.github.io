@@ -37,7 +37,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 **Selected Journals**
 
 - **Shansi Zhang** and Edmund Y. Lam, [Light Field Image Restoration via Latent Diffusion and Multi-View Attention](https://ieeexplore.ieee.org/abstract/document/10487025), *IEEE Signal Processing Letters*, vol. 31, pp. 1094-1098, 2024.
-- **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction](https://ieeexplore.ieee.org/document/10223285), *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 34, no. 4, pp. 2261-2273, 2024.
+- **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [Unsupervised Light Field Depth Estimation via Multi-View Feature Matching with Occlusion Prediction](https://ieeexplore.ieee.org/document/10223285), *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 34, no. 4, pp. 2261-2273, 2024.
 - **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, vol. 32, pp. 4314-4326, 2023.
 - **Shansi Zhang** and Edmund Y. Lam, [An Effective Decomposition-Enhancement Method to Restore Light Field Images Captured in the Dark](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003169), *Signal Processing*, vol. 189, pp. 108279 (1–11), 2021.
 - **Shansi Zhang** and Edmund Y. Lam, [Learning to Restore Light Fields Under Low-Light Imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
