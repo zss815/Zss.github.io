@@ -36,17 +36,17 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 # 📝 Publications 
 **Selected Journals**
 
-- **Shansi Zhang** and Edmund Y. Lam, [Light Field Image Restoration via Latent Diffusion and Multi-view Attention](https://ieeexplore.ieee.org/abstract/document/10487025), *IEEE Signal Processing Letters*, vol. 31, pp. 1094-1098, 2024.
+- **Shansi Zhang** and Edmund Y. Lam, [Light Field Image Restoration via Latent Diffusion and Multi-View Attention](https://ieeexplore.ieee.org/abstract/document/10487025), *IEEE Signal Processing Letters*, vol. 31, pp. 1094-1098, 2024.
 - **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction](https://ieeexplore.ieee.org/document/10223285), *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 34, no. 4, pp. 2261-2273, 2024.
-- **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [LRT: an efficient low-light restoration transformer for dark light field images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, vol. 32, pp. 4314-4326, 2023.
-- **Shansi Zhang** and Edmund Y. Lam, [An effective decomposition-enhancement method to restore light field images captured in the dark](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003169), *Signal Processing*, vol. 189, pp. 108279 (1–11), 2021.
-- **Shansi Zhang** and Edmund Y. Lam, [Learning to restore light fields under low-light imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
-- **Shansi Zhang**, Shuyuan Ma, and Weiming Wang, [Sliding mode control based on disturbance observer for magnetic levitation positioning stage](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07521998), *Journal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
+- **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, vol. 32, pp. 4314-4326, 2023.
+- **Shansi Zhang** and Edmund Y. Lam, [An Effective Decomposition-Enhancement Method to Restore Light Field Images Captured in the Dark](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003169), *Signal Processing*, vol. 189, pp. 108279 (1–11), 2021.
+- **Shansi Zhang** and Edmund Y. Lam, [Learning to Restore Light Fields Under Low-Light Imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
+- **Shansi Zhang**, Shuyuan Ma, and Weiming Wang, [Sliding Mode Control Based on Disturbance Observer for Magnetic Levitation Positioning Stage](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07521998), *Journal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
    
 **Selected conferences**
 
-- **Shansi Zhang** and Edmund Y. Lam, [Unsupervised disparity estimation for light field videos](https://ieeexplore.ieee.org/document/10446981), in *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2620–2624, 2024. 
-- **Shansi Zhang** and Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, pp. 2042-2048, 2022.
+- **Shansi Zhang** and Edmund Y. Lam, [Unsupervised Disparity Estimation for Light Field Videos](https://ieeexplore.ieee.org/document/10446981), in *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2620–2624, 2024. 
+- **Shansi Zhang** and Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-Light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, pp. 2042-2048, 2022.
 
 
 # 🎖 Honors and Awards
