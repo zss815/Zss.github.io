@@ -43,7 +43,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 - **Shansi Zhang** and Edmund Y. Lam, [Learning to Restore Light Fields Under Low-Light Imaging](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008274), *Neurocomputing*, vol. 456, pp. 76-87, 2021.
 - **Shansi Zhang**, Shuyuan Ma, and Weiming Wang, [Sliding Mode Control Based on Disturbance Observer for Magnetic Levitation Positioning Stage](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07521998), *Journal of Electrical Engineering & Technology*, vol. 13, no. 5, pp. 2116-2124, 2018.
    
-**Selected conferences**
+**Selected Conferences**
 
 - **Shansi Zhang** and Edmund Y. Lam, [Unsupervised Disparity Estimation for Light Field Videos](https://ieeexplore.ieee.org/document/10446981), in *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2620–2624, 2024. 
 - **Shansi Zhang** and Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-Light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, pp. 2042-2048, 2022.
