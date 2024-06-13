@@ -51,6 +51,6 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 
 # 🎖 Honors and Awards
 - National scholarship, *2015.11*.  
-- Beijing Outstanding Graduate, *2016.06*.
-- Outstanding Graduate of Beijing Institute of Technology, *2016.06*.
+- Beijing outstanding graduate, *2016.06*.
+- Outstanding graduate of Beijing Institute of Technology, *2016.06*.
 - Special award of Fashite gear scholarship, *2015.05*.
