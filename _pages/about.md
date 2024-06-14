@@ -22,7 +22,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 
 # 📖 Educations
 - PhD, Electrical and Electronic Engineering, **The University of Hong Kong**, Hong Kong SAR, China, *2020.11 - present*.
-- M.Eng, Electrical and Electronic Engineering, **Nanyang Technological University**, Singapore, *2017.09 - 2019.09*.
+- M.Eng, Electrical and Electronic Engineering, **Nanyang Technological University**, Singapore, *2017.09 - 2019.05*.
 - B.Eng, Mechanical Engineering, **Beijing Institute of Technology**, China, *2012.09 - 2016.06*.
 
 # 💻 Work Experiences
