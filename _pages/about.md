@@ -26,12 +26,13 @@ My name is Shansi Zhang. I will obtain my Ph.D. degree in Electrical and Electro
 - B.Eng, Mechanical Engineering, **Beijing Institute of Technology**, China, *2012.09 - 2016.06*.
 
 # 💻 Work Experiences
--  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.09*,
+-  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.09*.
   
-   worked on medical image analysis and AI-assisted diagnosis.
-- Research Intern in **Desay SV Automotive**, Singapore, *2018.12-2019.03*,
+   Worked on medical image analysis and AI-assisted diagnosis.
+   
+- Research Intern in **Desay SV Automotive**, Singapore, *2018.12-2019.03*.
 
-  worked on deep reinforcement learning for autonomous driving.
+  Worked on deep reinforcement learning for autonomous driving.
 
 # 📝 Publications 
 **Selected Journals**
