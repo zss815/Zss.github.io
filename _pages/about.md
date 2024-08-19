@@ -28,7 +28,7 @@ My name is Shansi Zhang. I will obtain my Ph.D. degree in Electrical and Electro
 # 💻 Work Experiences
 -  Machine Learning Research Engineer in **Biomind**, Beijing and Singapore, *2019.05 - 2020.09*.
   
-   Worked on medical image analysis and AI-assisted diagnosis.
+   Worked on medical image analysis and AI-assisted medical diagnosis.
    
 - Research Intern in **Desay SV Automotive**, Singapore, *2018.12-2019.03*.
 
