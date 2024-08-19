@@ -21,7 +21,7 @@ redirect_from:
 My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The University of Hong Kong, supervised by [Prof. Edmund Y. Lam](https://www.eee.hku.hk/~elam/). My research interests include image processing, computer vision and computational imaging.
 
 # 📖 Educations
-- PhD, Electrical and Electronic Engineering, **The University of Hong Kong**, Hong Kong SAR, China, *2020.11 - 2024.09*.
+- PhD, Electrical and Electronic Engineering, **The University of Hong Kong**, Hong Kong SAR, China, *2020.11 - 2024.08*.
 - M.Eng, Electrical and Electronic Engineering, **Nanyang Technological University**, Singapore, *2017.08 - 2019.05*.
 - B.Eng, Mechanical Engineering, **Beijing Institute of Technology**, China, *2012.09 - 2016.06*.
 
@@ -35,7 +35,7 @@ My name is Shansi Zhang. I am currently pursuing the Ph.D. degree in the Departm
 
 # 📝 Publications 
 **Selected Journals**
-
+- **Shansi Zhang**, Yaping Zhao, and Edmund Y. Lam, [Semi-Supervised Semantic Segmentation for Light Field Images Using Disparity Information](https://ieeexplore.ieee.org/document/10638478), *IEEE Transactions on Image Processing*, 2024.
 - **Shansi Zhang** and Edmund Y. Lam, [Light Field Image Restoration via Latent Diffusion and Multi-View Attention](https://ieeexplore.ieee.org/abstract/document/10487025), *IEEE Signal Processing Letters*, vol. 31, pp. 1094-1098, 2024.
 - **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [Unsupervised Light Field Depth Estimation via Multi-View Feature Matching with Occlusion Prediction](https://ieeexplore.ieee.org/document/10223285), *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 34, no. 4, pp. 2261-2273, 2024.
 - **Shansi Zhang**, Nan Meng, and Edmund Y. Lam, [LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images](https://ieeexplore.ieee.org/abstract/document/10194557), *IEEE Transactions on Image Processing*, vol. 32, pp. 4314-4326, 2023.
