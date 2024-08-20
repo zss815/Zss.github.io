@@ -48,6 +48,7 @@ My name is Shansi Zhang. I will obtain my Ph.D. degree in Electrical and Electro
 
 - **Shansi Zhang** and Edmund Y. Lam, [Unsupervised Disparity Estimation for Light Field Videos](https://ieeexplore.ieee.org/document/10446981), in *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2620–2624, 2024. 
 - **Shansi Zhang** and Edmund Y. Lam, [A Deep Retinex Framework for Light Field Restoration under Low-Light Conditions](https://ieeexplore.ieee.org/abstract/document/9956107), in *International Conference on Pattern Recognition (ICPR)*, pp. 2042-2048, 2022.
+- **Shansi Zhang**, Chao Sun, Zhi Feng, and Guoqiang Hu, [Trajectory-Tracking Control of Robotic Systems via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9095802), in *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)*, pp. 386-391, 2019.
 
 
 # 🎖 Honors and Awards
