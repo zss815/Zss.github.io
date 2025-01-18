@@ -52,7 +52,8 @@ My name is Shansi Zhang. I obtained my Ph.D. degree in Electrical and Electronic
 
 
 # 🎖 Honors and Awards
-- National scholarship, *2015.11*.  
-- Beijing outstanding graduate, *2016.06*.
-- Outstanding graduate of Beijing Institute of Technology, *2016.06*.
-- Special award of Fashite gear scholarship, *2015.05*.
+- HKU Postgraduate Scholarship, *2020-2024*.
+- National Scholarship, *2015.11*.  
+- Beijing Outstanding Graduate, *2016.06*.
+- Outstanding Graduate of Beijing Institute of Technology, *2016.06*.
+- Special Award of Fashite Gear Scholarship, *2015.05*.
